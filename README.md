@@ -1,12 +1,13 @@
 <!-- Title -->
-<h1 align="center">@coder-shubh/pop-up-confirmation</h1>
+<h1 align="center">@coder-shubh/react-native-pop-up-confirmation</h1>
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/npm/v/@coder-shubh/pop-up-confirmation" alt="npm version">
+  <img src="https://img.shields.io/npm/v/@coder-shubh/react-native-pop-up-confirmation" alt="npm version">
   <!-- <img src="https://img.shields.io/github.com/coder-shubh/ShubhamPackage" alt="license"> -->
 </p>
 
+![Demo](https://www.loom.com/share/a8d9bd71f72041ad87fcd287756a1f76)
 
 <!-- Description -->
 <p align="center">
@@ -24,14 +25,14 @@
 <!-- Installation -->
 <h2>Installation</h2>
 
-You can install the `@coder-shubh/pop-up-confirmation` package using npm or yarn:
+You can install the `@coder-shubh/react-native-pop-up-confirmation` package using npm or yarn:
 
 ```bash
 # with npm
-npm i @coder-shubh/pop-up-confirmation react-native-vector-icons
+npm i @coder-shubh/react-native-pop-up-confirmation react-native-vector-icons
 
 # with yarn
-yarn add @coder-shubh/pop-up-confirmation react-native-vector-icons
+yarn add @coder-shubh/react-native-pop-up-confirmation react-native-vector-icons
 ```
 
 <!-- Usage -->
@@ -40,7 +41,7 @@ yarn add @coder-shubh/pop-up-confirmation react-native-vector-icons
 ```js
 import React, { useState } from 'react';
 import { View, Button } from 'react-native';
-import PopUpConfirmation from '@coder-shubh/pop-up-confirmation';
+import PopUpConfirmation from '@coder-shubh/react-native-pop-up-confirmation';
 
 const App = () => {
   const [modalVisible, setModalVisible] = useState(false);
