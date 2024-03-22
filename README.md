@@ -7,7 +7,12 @@
   <!-- <img src="https://img.shields.io/github.com/coder-shubh/ShubhamPackage" alt="license"> -->
 </p>
 
-![Demo](https://raw.coder-shubh.com/coder-shubh/react-native-popUp/master/src/assets/vdo.gif)
+<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
+  <!-- First GIF -->
+  <img src="https://raw.githubusercontent.com/coder-shubh/react-native-popUp/master/src/assets/vdo.gif" alt="Demo 1" width="45%">
+  <!-- Second GIF -->
+  <img src="https://raw.githubusercontent.com/coder-shubh/react-native-popUp/master/src/assets/vido.gif" alt="Demo 2" width="45%">
+</div>
 
 <!-- Description -->
 <p align="center">
