@@ -7,7 +7,7 @@
   <!-- <img src="https://img.shields.io/github.com/coder-shubh/ShubhamPackage" alt="license"> -->
 </p>
 
-![Demo](https://raw.coder-shubh.com/coder-shubh/react-native-popUp/master/src/assets/vdo.gif)
+![Demo](https://raw.coder-shubh.com/coder-shubh/react-native-popUp/master/react-native-popUp/src/assets/vdo.gif)
 
 <!-- Description -->
 <p align="center">
