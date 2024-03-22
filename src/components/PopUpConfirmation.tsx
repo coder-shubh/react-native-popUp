@@ -1,4 +1,3 @@
-// LogoutConfirmation.tsx
 import React from 'react';
 import Colors from '../assets/colors';
 import { useCommonImports } from '../imports/index';

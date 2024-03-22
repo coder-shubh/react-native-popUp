@@ -1,36 +1,35 @@
 {
   "name": "@coder-shubh/react-native-pop-up-confirmation",
-  "version": "1.0.0",
-  "description": "A customizable and easy-to-use pop-up component for React-Native Application.",
+  "version": "1.0.8",
+  "description": "A costomizable and easy-to-use pop-up component for React-Native Application.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "react",
-    "react-native",
-    "popup",
-    "confirmation",
-    "modal",
-    "dialog",
-    "android",
-    "ios",
-    "coder-shubh"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/coder-shubh/react-native-popUp.git"
   },
-  "author": "coder-shubh",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/coder-shubh/react-native-popUp/issues"
   },
   "homepage": "https://github.com/coder-shubh/react-native-popUp#readme",
-
+  "keywords": [
+    "react",
+    "react-native",
+    "pop-up",
+    "pop",
+    "alert",
+    "coder-shubh",
+    "modal",
+    "android",
+    "ios"
+  ],
+  "author": "coder-shubh",
+  "license": "ISC",
   "peerDependencies": {
-    "react": "^17.0.0",
-    "react-native": "^0.64.0",
-    "react-native-vector-icons": "^8.1.0"
+    "react": "18.2.0",
+    "react-native": "0.72.10",
+    "react-native-vector-icons": "^10.0.3"
   }
 }
