@@ -1,6 +1,6 @@
 {
   "name": "@coder-shubh/react-native-pop-up-confirmation",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "A costomizable and easy-to-use pop-up component for React-Native Application.",
   "main": "index.tsx",
   "scripts": {
@@ -23,13 +23,14 @@
     "coder-shubh",
     "modal",
     "android",
-    "ios"
+    "ios",
+    "react-native-component"
   ],
   "author": "coder-shubh",
   "license": "ISC",
   "peerDependencies": {
-    "react": "18.2.0",
-    "react-native": "0.72.10",
-    "react-native-vector-icons": "^10.0.3"
+    "react": "^18.2.0",
+    "react-native": "^0.72.10",
+    "react-native-vector-icons": "^10.1.0"
   }
 }
